@@ -13,5 +13,7 @@ public class demo {
         System.out.println("到了哦");
 
         System.out.println("gitworkspase的提交");
+        System.out.println("demo的一个提交");
+
     }
 }
