@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f9c681e-95c3-4b41-965a-ae2d2fe886eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm/src/main/java/com/liwangwang/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ssm/src/main/java/com/liwangwang/demo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/ssm/target/" />
     <ignored path="$PROJECT_DIR$/sm/target/" />
@@ -13,8 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -31,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ssm/src/main/java/com/liwangwang/demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            <state relative-caret-position="350">
+              <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -92,6 +92,11 @@
               <item name="gitworkspase" type="b2602c69:ProjectViewProjectNode" />
               <item name="gitworkspase" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="gitworkspase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gitworkspase" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -149,7 +154,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571283962705</updated>
       <workItem from="1571283965381" duration="3827000" />
-      <workItem from="1571296153733" duration="293000" />
+      <workItem from="1571296153733" duration="912000" />
     </task>
     <task id="LOCAL-00001" summary="把一个demo放到上面去了">
       <created>1571295418515</created>
@@ -158,14 +163,22 @@
       <option name="project" value="LOCAL" />
       <updated>1571295418515</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="这次把所有的区间都放上去">
+      <created>1571296828163</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571296828163</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4120000" />
+    <option name="totallyTimeSpent" value="4739000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1488" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25314686" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -217,7 +230,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="把一个demo放到上面去了" />
-    <option name="LAST_COMMIT_MESSAGE" value="把一个demo放到上面去了" />
+    <MESSAGE value="这次把所有的区间都放上去" />
+    <option name="LAST_COMMIT_MESSAGE" value="这次把所有的区间都放上去" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sm/pom.xml" />
@@ -233,8 +247,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ssm/src/main/java/com/liwangwang/demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        <state relative-caret-position="350">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
         </state>
       </provider>
     </entry>
